@@ -1,0 +1,28 @@
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2022-10-24T16:22:43.546138Z",
+    "progressPercent": 100,
+    "startTime": "2022-10-24T16:22:33.486912Z",
+    "uri": "gs://kangri-asr/Kangri_School_Recording_3.wav"
+  },
+  "name": "2721935712085423702",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "requestId": "2721935712085423702",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9230718,
+            "transcript": "हेलो मेरा नाम है नवीन कुमार और नया खली का रहने वाला हूं मेरा डिस्ट्रिक्ट चंबा पता है और मध्य प्रदेश से हूं और इस वक्त मैं जो हूं कांग्रेचुलेशन स्कूल में अपने ड्यूटी के तौर पर जो करो और मुझे या फिर काम करके बहुत ही अच्छा लग रहा है इतना ना मुझे कहीं पहले जाऊं तो मैं जॉब करता था वहां पर इतना नींद नहीं आएगी जो कि अभी मोनू जी का ग्रेटर है स्कूल में अपने निकले ट्रैक्टर प्रितपाल जितना भी स्टाफ है उनकी तरफ से मुझे जो भी सिम मिल रहा है वह पूरी तरह से आनंद मिल रहा है मेरे को काम करके"
+          }
+        ],
+        "languageCode": "hi-in",
+        "resultEndTime": "39.540s"
+      }
+    ],
+    "totalBilledTime": "45s"
+  }
+}
